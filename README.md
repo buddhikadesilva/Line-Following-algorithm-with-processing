@@ -2,8 +2,8 @@
 Line Following algorithm with processing using a webcam.
 
 Dependencies :
->openCV for processing.
->video library.
+-openCV for processing.
+-video library.
 
 Just install it from library tab in processing software menu. Also install the video library.
 now you are ready to use this code.
