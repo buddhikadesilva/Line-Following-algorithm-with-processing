@@ -15,3 +15,12 @@ Happy Coding !
 ![img_20180825_184935-001](https://user-images.githubusercontent.com/13791181/46385140-11e11780-c6d8-11e8-9923-cdada0ce363e.jpg)
 - what is line following?
 - Line Following is one of the most important aspects of robotics. A Line Following Robot is an autonomous robot which is able to follow either a black or white line that is drawn on the surface consisting of a contrasting color.
+- Some techniques which are used in digital image processing include:
+Anisotropic diffusion.
+Hidden Markov models.
+Image editing.
+Image restoration.
+Independent component analysis.
+Linear filtering.
+Neural networks.
+Partial differential equations.
