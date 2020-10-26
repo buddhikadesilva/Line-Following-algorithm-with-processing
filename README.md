@@ -24,3 +24,6 @@ Independent component analysis.
 Linear filtering.
 Neural networks.
 Partial differential equations.
+- Robotic engineers are designing the next generation of robots to look, feel and act more human, to make it easier for us to warm up to a cold machine. Rescue Robots. Robotic Competitions. Robotic Prosthetics. Walking Robots. Robot Caregivers.
+-What is the future for robots?
+Future of Robotics & Artificial Intelligence. According to a Forrester report, robots will eliminate 6 percent of all jobs in the U.S. by 2021. McKinsey's assessment is even more expansive — they believe that by 2030 one-third of American jobs could become automated.
